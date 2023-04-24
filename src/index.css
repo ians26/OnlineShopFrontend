@@ -216,3 +216,13 @@
 .myform button[type="submit"]:hover {
     background-color: #3e8e41;
 }
+
+.confirmation {
+    padding-top: 12%;
+    margin-left: 20%;
+}
+
+.confirmation p {
+    margin-bottom: 10px;
+    font-size: 30px;
+}
